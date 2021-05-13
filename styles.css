@@ -146,8 +146,12 @@ button:focus {
 
 .voice-icon {
     width: 25px;
-    height: 25px;    
+    height: 25px;
  
+}
+
+.voice-icon:hover {
+    cursor: pointer;
 }
 
 .buttons {
